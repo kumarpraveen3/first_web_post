@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kumarpraveen3/my-website/static/css/main.b5a04176.css",
+    "main.js": "/kumarpraveen3/my-website/static/js/main.59414568.js",
+    "static/js/787.14d66ee3.chunk.js": "/kumarpraveen3/my-website/static/js/787.14d66ee3.chunk.js",
+    "index.html": "/kumarpraveen3/my-website/index.html",
+    "main.b5a04176.css.map": "/kumarpraveen3/my-website/static/css/main.b5a04176.css.map",
+    "main.59414568.js.map": "/kumarpraveen3/my-website/static/js/main.59414568.js.map",
+    "787.14d66ee3.chunk.js.map": "/kumarpraveen3/my-website/static/js/787.14d66ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5a04176.css",
+    "static/js/main.59414568.js"
+  ]
+}
