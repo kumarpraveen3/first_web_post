@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    background-color:darkturquoise;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    }

@@ -1,0 +1,28 @@
+.Contener_login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    height: 100vh;
+    flex-direction: column;
+}
+.login-form-input{
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+}
+.user-passward{
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+}
+.submit{
+    background-color: blueviolet;
+    height: 25px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin-left: 20px;
+}

@@ -1,0 +1,8 @@
+.counters-contener{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 15px;
+    background: linear-gradient(to top left, #33ccff 27%, #ff66ff 97%)}
